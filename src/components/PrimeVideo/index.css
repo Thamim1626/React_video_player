@@ -1,1 +1,37 @@
-/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.prime-video {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+}
+
+.prime-video-image {
+  width: 100%;
+}
+.body-section {
+  padding: 20px;
+}
+
+.prime-movie-heading {
+  color: white;
+  font-size: 28px;
+  margin-top: 12px;
+  margin-bottom: 8px;
+}
+.main-slider {
+  padding: 20px;
+  margin: 20px;
+}
+
+.slider-card {
+  width: 250px;
+
+  margin: 8px;
+  height: 200px;
+}

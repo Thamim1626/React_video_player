@@ -1,1 +1,29 @@
-/* Write your CSS here */
+.slider-card {
+  margin: 12px;
+  padding: 12px;
+}
+
+.item-image {
+  margin: 12px;
+}
+
+.modal-card {
+  background-color: white;
+  border-radius: 12px;
+  width: 660px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.modal-cancel {
+  align-self: flex-end;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.video-player {
+  width: 90%;
+  margin-top: 8px;
+}
